@@ -99,16 +99,31 @@ eggs, onion
 ## Expected Output
 
 ```
-Recipe Name: Simple Onion Omelette with Eggs
+**Recipe Name: Simple Onion Omelette**
 
-Ingredients:
-- Eggs
-- Onion
 
-Steps:
-1. Beat eggs
-2. Cook onion
-3. Combine and cook
+**Ingredients:** (Note that eggs and onions are the only required items)
+
+- 2 large eggs
+
+- Salt, to taste
+
+- Black pepper, freshly ground, to taste
+
+- Butter or cooking spray for greasing pan
+
+- 1 small finely chopped onion (adjust quantity as needed based on desired amount of incorporation)
+
+
+**Steps:**
+
+1. In a mixing bowl, beat the eggs with salt and pepper until well combined. Set aside.
+
+2. Heat butter or cooking spray in a non-stick frying pan over medium heat. Add the chopped onion and sauté for about 3 minutes until they become translucent. Be sure to stir occasionally so that it doesn't burn.
+
+3. Pour the eggs into one half of the skillet, letting them sit undisturbed as they begin to set at the edges. Using a spatula gently push the egg from the set edge toward the center allowing uncooked liquid to flow underneath towards the pan’s side not in contact with the onions (folding technique). Continue until no runny eggs remain, for about 2-3 minutes depending on how many servings you are making.
+
+4. Carefully slide your omelette onto a plate and serve immediately while hot. Enjoy this simple yet delicious Onion Omelette!
 ```
 
 ---
