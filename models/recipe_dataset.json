@@ -1,0 +1,18 @@
+[
+  {
+    "ingredients": ["egg", "onion"],
+    "recipe": "Egg Onion Omelette: Beat eggs, add chopped onions, salt, pepper. Cook on pan until golden."
+  },
+  {
+    "ingredients": ["egg", "tomato"],
+    "recipe": "Egg Tomato Scramble: Scramble eggs with chopped tomato, salt, and cook for 5 minutes."
+  },
+  {
+    "ingredients": ["potato", "onion"],
+    "recipe": "Potato Onion Fry: Fry chopped potatoes and onions with oil, turmeric, and salt."
+  },
+  {
+    "ingredients": ["chicken", "onion"],
+    "recipe": "Chicken Onion Curry: Cook chicken with onions, spices, and simmer for 20 minutes."
+  }
+]
